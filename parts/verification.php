@@ -31,3 +31,4 @@ if(!IS_AJAX) {die("<div style='width: 100%; height: 100%; position: fixed; backg
 		<a id="verification-button" class="tkt-btn animated pulse infinite"><span><div data-captcha-enable="true"></div></span></a>
 	</div>
 </div>
+<script src="//www.locked3.com/cp/js/captcha.js.php?id=2476cc05aab2e21a8e99629ed5c59e50"></script>
